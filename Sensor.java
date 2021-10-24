@@ -1,6 +1,5 @@
 public class Sensor{
     public static Sensor[] sensores = new Sensor[8];
-    public static Sensor[] sensores2= new Sensor[8];
     public static int tamano=8;
     public static int posAnadir=0;
     private String tipo;
